@@ -1928,6 +1928,7 @@
 | [Parlay](https://parlay-api.com/docs) | Real-time sports betting odds from 21+ sportsbooks across 38+ sports with free tier (1K req/month) | `apiKey` | No |
 | [Premier League Standings ](https://rapidapi.com/heisenbug/api/premier-league-live-scores/) | All Current Premier League Standings and Statistics | `apiKey` | Unknown |
 | [Racing Alpha](https://racingalpha.co.uk/developers) | AI win-probability scores, fair prices and draw-bias stats for UK & Irish horse racing | No | Yes |
+| [Realtime Sports](https://www.realtimesportsapi.com) | Live scores, play-by-play, box scores, schedules, rosters, injuries and odds for NFL, NBA, MLB, NHL, NCAA and 23 soccer competitions | `apiKey` | Yes |
 | [SkipOdds](https://skipodds.com/docs) | De-vigged fair win probabilities across 13 sports, averaged from 69+ bookmakers | `apiKey` | Yes |
 | [Soccer / Football API](https://soccer-api.com) | Reliable Soccer API for live scores (websocket), fixtures, results, standings, player stats, match events, and smarter football data experiences | `apiKey` | Yes |
 | [Sport Highlights](https://highlightly.net/documentation/sports/) | Real time Sport Highlights | `apiKey` | Unknown |
